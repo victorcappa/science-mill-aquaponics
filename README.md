@@ -64,7 +64,7 @@ All intellectual property is owned Science Mill.
 <!-- CONTACT -->
 ## Contact
 
-Reach out - <a href = "mailto: victorcappa@imaginar.dev">Victor Cappa</a>
+Reach out - <a href = "mailto: victorcappa@imaginar.dev">Victor Cappa @imaginar</a>
 <br>
 <a href="https://www.linkedin.com/in/victor-cappa-50839788/">Linkedin</a>
 
